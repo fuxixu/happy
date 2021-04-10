@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MES</string>
+
+    <string name="menu_first">我的</string>
+    <string name="menu_second">菜单</string>
+    <string name="menu_third">任务</string>
+</resources>

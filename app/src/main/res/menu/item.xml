@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/aaa"
+        android:icon="@drawable/aaa"
+        android:title="新建订单"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/bbb"
+        android:icon="@drawable/bbb"
+        android:title="新建采购单"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/ccc"
+        android:icon="@drawable/ccc"
+        android:title="新建库存申请"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/ddd"
+        android:icon="@drawable/ddd"
+        android:title="异常上报"
+        app:showAsAction="never"/>
+</menu>
